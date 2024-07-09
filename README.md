@@ -1,1 +1,1 @@
-# leo.xposed.sesameX
+# sesameX
